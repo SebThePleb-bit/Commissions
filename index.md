@@ -4,4 +4,5 @@
 
 [Test link](https://pages.github.com/)
 
-<p2> Test image </p2> <img src="Illustration.png" alt="Italian Trulli">
+<p2> Test image </p2> 
+<img src="Illustration.png" alt="Italian Trulli">
