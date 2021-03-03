@@ -15,7 +15,7 @@ body {
 	background: #273555 url(images/wrapper-bg.png) repeat;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
-	color: #FFFFFF;
+	color: #3d3d3d;
 }
 
 h1, h2, h3 {
@@ -155,42 +155,6 @@ img.aligncenter {
 
 #search-submit {
 	display: none;
-}
-
-/* Menu */
-
-#menu {
-	width: 820px;
-	height: 60px;
-	margin: 40px auto 0 auto;
-	text-align: center;
-}
-
-#menu ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-	line-height: normal;
-}
-
-#menu li {
-	display: inline;
-}
-
-#menu a {
-	margin-right: 1px;
-	padding: 10px 20px 10px 20px;
-	text-decoration: none;
-	text-transform: lowercase;
-	font-family: 'Abel', sans-serif;
-	font-size: 18px;
-	font-weight: normal;
-	color: #FFFFFF;
-	border: none;
-}
-
-#menu .current_page_item a {
-	background: #CE5372; 
 }
 
 #splash {
@@ -361,7 +325,7 @@ img.aligncenter {
 	text-transform: lowercase;
 	text-align: center;
 	font-size: 12px;
-	color: #DCA7B9;
+	color: #3d3d3d;
 }
 
 #footer a {
