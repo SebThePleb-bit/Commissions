@@ -147,7 +147,6 @@ img.aligncenter {
 	background: #636900;
 	line-height: 35px;
 	letter-spacing: 1px;
-	text-transform: lowercase;
 	font-family: 'Abel', sans-serif;
 	font-size: 16px;
 	color: #FFFFFF;
@@ -189,7 +188,6 @@ img.aligncenter {
 .post .title {
 	padding-bottom: 20px;
 	letter-spacing: -1px;
-	text-transform: lowercase;
 	color: #FFFFFF;
 }
 
