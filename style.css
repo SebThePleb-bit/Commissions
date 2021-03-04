@@ -82,13 +82,13 @@ img.aligncenter {
 #header {
 	overflow: hidden;
 	width: 900px;
-	margin: 100 auto;
+	margin: 0 auto;
 }
 
 /* Logo */
 
 #logo {
-	margin: 0 0 30px 0;
+	margin: 30 0 30px 0;
 	padding: 0;
 	color: #FFFFFF;
 }
